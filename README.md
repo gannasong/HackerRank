@@ -5,4 +5,4 @@
 </p>
 
 ![Language](https://img.shields.io/badge/Language-Swift-orange.svg)
-![Challenges](https://img.shields.io/badge/Challenges-3_Complete-green.svg)
+![Challenges](https://img.shields.io/badge/Challenges-7_Complete-green.svg)
